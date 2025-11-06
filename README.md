@@ -2,7 +2,6 @@
 
 An ultra-light chat UI with a FastAPI backend that calls a hosted LLM to role-play a friendly Thai health advisor named "หมอนุ่น". Includes background music, sound effects, and selectable background themes with matching color palettes.
 
-https://polite-lamington-452317.netlify.app/
 
 ### Features
 - Chat interface with user/bot message bubbles and avatar
@@ -86,6 +85,7 @@ Response
 
 ### License
 For educational/demo use. Replace assets and prompts to suit your project.
+
 
 
 
